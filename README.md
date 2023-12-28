@@ -19,4 +19,4 @@ The aim of this repository is to serve as a learning and reference hub for those
 
 # Acknowledgements:
 
-These scripts are largely inspired by Jason Dsouza's [OpenCV course](https://www.youtube.com/watch?v=oXlwWbU8l2o&list=WL&index=5) with freeCodeCamp which you can find at 
+These scripts are largely inspired by Jason Dsouza's [OpenCV course](https://www.youtube.com/watch?v=oXlwWbU8l2o&list=WL&index=5) with freeCodeCamp. 
