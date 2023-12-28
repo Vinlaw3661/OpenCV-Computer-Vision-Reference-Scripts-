@@ -16,3 +16,7 @@ This repository hosts a collection of reference scripts using OpenCV, catering t
 Purpose:
 
 The aim of this repository is to serve as a learning and reference hub for those delving into OpenCV for computer vision applications. It provides easily understandable scripts and explanations to facilitate the comprehension and application of vision algorithms.
+
+# Acknowledgements:
+
+These scripts are largely inspired by Jason Dsouza's OpenCV course with freeCodeCamp which you can find at [https://www.youtube.com/watch?v=oXlwWbU8l2o&list=WL&index=5]
